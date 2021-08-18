@@ -1,0 +1,27 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    min-width: 400px;
+    background-image: url("backgroung.jpeg");
+
+}
+
+#card{
+    background-image: url("bg3.jpg");
+}
+
+p small a{
+    text-decoration: none;
+}
+
+.card-header{
+    color: green;
+}
+
+#card-body{
+    font-family: 'Source Code Pro', monospace;
+}
+
+h6{
+    background-color:  whitesmoke;
+}
+
