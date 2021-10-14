@@ -1,9 +1,11 @@
 body {
+    
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     min-width: 400px;
-    background-image: url("backgroung.jpeg");
+    /* background-image: url("backgroung.jpeg"); */
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.884)!important;
 
 }
 
