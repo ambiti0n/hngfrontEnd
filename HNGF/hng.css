@@ -2,13 +2,18 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     min-width: 400px;
     background-image: url("backgroung.jpeg");
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
 
 }
 
 #card{
     background-image: url("bg3.jpg");
 }
-
+.description{
+    font-size: 1rem;
+    color: black;
+}
 p small a{
     text-decoration: none;
 }
@@ -23,5 +28,8 @@ p small a{
 
 h6{
     background-color:  whitesmoke;
+}
+a {
+    text-decoration: none;
 }
 
